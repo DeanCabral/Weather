@@ -1,5 +1,5 @@
 const appVariables = {
-    "apiKey": '21689db7880dcf60aa155002cc8b5bdf',
+    "apiKey": '',
 }
 
 document.querySelector('.search-button').addEventListener('click', searchWeather);
